@@ -12,3 +12,5 @@ click derecho, git bash here, se abre la terminal.
 -Ver el estado del repo
 
 Agrego esto al bloc de notas
+
+7846413635
