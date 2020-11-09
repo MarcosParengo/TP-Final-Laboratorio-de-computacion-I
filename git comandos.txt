@@ -8,4 +8,5 @@ click derecho, git bash here, se abre la terminal.
 	git add .
 	git commit -m "comentario de la actualizacion"
 	git push
-		
+
+Agrego esto al bloc de notas
