@@ -1,0 +1,11 @@
+click derecho, git bash here, se abre la terminal.
+
+-Clonar un repositorio (Primer descarga): git clone [link].---> en nuesto caso el link es https://github.com/MarcosParengo/TP-Final-Laboratorio-de-computacion-I
+
+-Pullear un repositorio (Bajar la ultima version del repositorio): git pull
+
+-Pushear un repositorio (Actualizar los cambios que hiciste): 
+	git add .
+	git commit -m "comentario de la actualizacion"
+	git push
+		
