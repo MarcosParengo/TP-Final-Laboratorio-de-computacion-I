@@ -9,4 +9,6 @@ click derecho, git bash here, se abre la terminal.
 	git commit -m "comentario de la actualizacion"
 	git push
 
+-Ver el estado del repo
+
 Agrego esto al bloc de notas
